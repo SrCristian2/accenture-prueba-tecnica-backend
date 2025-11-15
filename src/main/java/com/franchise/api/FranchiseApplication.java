@@ -1,13 +1,13 @@
-package franquicias.franquicias;
+package com.franchise.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FranquiciasApplication {
+public class FranchiseApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FranquiciasApplication.class, args);
+		SpringApplication.run(FranchiseApplication.class, args);
 	}
 
 }
